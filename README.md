@@ -16,7 +16,7 @@ Datapack for Minecraft 1.17.1+! Lets you create RPG-Like titles in certain areas
   - Dark Green (Green Banner)
   - Dark Purple (Purple Banner)
   - Dark Red (Red Banner)
-  - Gold (Orange Banner)
+  - Gold/Orange (Orange Banner)
   - Gray (Light Gray Banner)
   - Green (Lime Banner)
   - Light Purple (Pink Banner)
@@ -27,6 +27,20 @@ Datapack for Minecraft 1.17.1+! Lets you create RPG-Like titles in certain areas
 - Locations are marked with little particles, walking nearby will display the title.
   - Titles will only appear when walking over the particles, so these are best placed near entrances and exits, rather than in the middle of your build.
 - Delete the city district markers by setting the block underneath it on fire.
+
+<h2 id="screenshots">Screenshots</h2>
+
+<h3>Available Colors</h3>
+<img src=".github\resources\Colors.png">
+<p align="center">All of the colored titles with their respective banner.</p>
+
+<h3>Founding a District</h3>
+<img src=".github\resources\found.gif">
+<p align="center">Rename a colored banner, and throw it on an armor stand.</p>
+
+<h3>Deleting a District</h3>
+<img src=".github\resources\discontinue.gif">
+<p align="center">Set the block (marked with particles) on fire to delete the district.</p>
 
 [release]:https://github.com/maxheyn/city-districts/releases/latest "Latest Release (external link)"
 [issues]:https://github.com/maxheyn/city-districts/issues "Issues (external link)"

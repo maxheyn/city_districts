@@ -1,5 +1,5 @@
 <h1 id="topBanner"align="center">
-  <img src=".github\resources\WarpShrinesBanner.png" alt="WarpShrines banner" />
+  <img src=".github\resources\CityDistrictsBanner.png" alt="CityDistricts Banner" />
 </h1>
 
 <div align="center">
@@ -7,47 +7,27 @@
 [GitHub Release][release]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Planet Minecraft][planetminecraft]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Screenshots](#screenshots)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Issues][issues]
 
 </div>
-<h1>Warp Shrines</h1>
-Datapack for Minecraft 1.16.2+! Adds craftable, buildable Warp Shrines to the game, allowing the player to set up a vanilla, survival-friendly teleportation network.<br>
+<h1>City Districts</h1>
+Datapack for Minecraft 1.17.1+! Lets you create RPG-Like titles in certain areas that show up when you walk over them. Good for roleplaying or adding a bit of extra flair to a build. Works great in multiplayer too!<br>
 
-- Adds Warp Shrines to the game, make two and link them up to teleport between them.
-- Balanced for late-game Minecraft worlds, difficult to craft so as to not make them OP.
-- New crafting recipes for special shrine creation and linking items.
-- Warp-Twisted creatures try to stop you from interfering with their domain.
-- Fun effects upon shrine creation and linking!
-- Works between Dimensions as well!
-- Delete shrines by setting the block underneath them on fire!
-- Find special shrine creation items as treasure in End Cities and as a rare drop from Endermen.
-- Get a Warp Stone back when you delete a shrine.
+- Features 11 Different Title Colors
+  - Aqua (Light Blue Banner)
+  - Dark Aqua (Cyan Banner)
+  - Dark Green (Green Banner)
+  - Dark Purple (Purple Banner)
+  - Dark Red (Red Banner)
+  - Gold (Orange Banner)
+  - Gray (Light Gray Banner)
+  - Green (Lime Banner)
+  - Light Purple (Pink Banner)
+  - White (White Banner)
+  - Yellow (Yellow Banner)
+- Simply grab one of the banners above, rename it to what you want to name your City/Town/Location, and toss/throw the banner onto an armor stand.
+- When you create or delete a city district, it announces it to players nearby in chat.
+- Locations are marked with little particles, walking nearby will display the title.
+  - Titles will only appear when walking over the particles, so these are best placed near entrances and exits, rather than in the middle of your build.
+- Delete the city district markers by setting the block underneath it on fire.
 
-<h2 id="screenshots">Screenshots</h2>
-
-<h3>Creating Warp Shrines</h3>
-<img src=".github\resources\craftingGif.gif">
-<p align="center">Toss the <b>Warp Stone</b> ontop of a <b>Beacon</b> to create a Warp Shrine. Then, toss a <b>Link Pearl</b> ontop of the Warp Shrine to link it with the next shrine you create. You will need two shrines to be able to link them.</p>
-
-<h3>Using Warp Shrines</h3>
-<img src=".github\resources\usingGif.gif">
-<p align="center">Walk into a Warp Shrine and come out the other end!</p>
-
-<h3>Deleting Warp Shrines</h3>
-<img src=".github\resources\deletingGif.gif">
-<p align="center">Light the block underneath the Warp Shrine on fire to delete it!</p>
-
-<h3> Crafting Recipe - Warp Stone</h3>
-<img src=".github\resources\warpstoneCrafting.png">
-
-- 4x Diamond
-- 4x Ender Pearl
-- 1x Nether Star
-
-<h3> Crafting Recipe - Link Pearl</h3>
-<img src=".github\resources\linkpearlCrafting.png">
-
-<i>In a Smithing Table!</i>
-- 1x Ender Pearl
-- 1x Dragon's Breath 
-
-[release]:https://github.com/maxheyn/warp_shrines/releases/latest "Latest Release (external link)"
-[issues]:https://github.com/maxheyn/warp_shrines/issues "Issues (external link)"
-[planetminecraft]: https://www.planetminecraft.com/data-pack/warp-shrines-teleport-between-locations/ "Planet Minecraft Webpage (external link)"
+[release]:https://github.com/maxheyn/city-districts/releases/latest "Latest Release (external link)"
+[issues]:https://github.com/maxheyn/city-districts/issues "Issues (external link)"
+[planetminecraft]: https://www.planetminecraft.com/data-pack/city-districts-rpg-titles/ "Planet Minecraft Webpage (external link)"

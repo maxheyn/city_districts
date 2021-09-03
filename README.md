@@ -36,11 +36,11 @@ Datapack for Minecraft 1.17.1+! Lets you create RPG-Like titles in certain areas
 
 <h3>Founding a District</h3>
 <img src=".github\resources\found.gif">
-<p align="center">Rename a colored banner, and throw it on an armor stand.</p>
+<p>Rename a colored banner, and throw it on an armor stand.</p>
 
 <h3>Deleting a District</h3>
 <img src=".github\resources\discontinue.gif">
-<p align="center">Set the block (marked with particles) on fire to delete the district.</p>
+<p>Set the block (marked with particles) on fire to delete the district.</p>
 
 [release]:https://github.com/maxheyn/city_districts/releases/latest "Latest Release (external link)"
 [issues]:https://github.com/maxheyn/city_districts/issues "Issues (external link)"

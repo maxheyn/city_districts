@@ -28,6 +28,6 @@ Datapack for Minecraft 1.17.1+! Lets you create RPG-Like titles in certain areas
   - Titles will only appear when walking over the particles, so these are best placed near entrances and exits, rather than in the middle of your build.
 - Delete the city district markers by setting the block underneath it on fire.
 
-[release]:https://github.com/maxheyn/city-districts/releases/latest "Latest Release (external link)"
-[issues]:https://github.com/maxheyn/city-districts/issues "Issues (external link)"
+[release]:https://github.com/maxheyn/city_districts/releases/latest "Latest Release (external link)"
+[issues]:https://github.com/maxheyn/city_districts/issues "Issues (external link)"
 [planetminecraft]: https://www.planetminecraft.com/data-pack/city-districts-rpg-like-titles/ "Planet Minecraft Webpage (external link)"

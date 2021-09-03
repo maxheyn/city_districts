@@ -30,4 +30,4 @@ Datapack for Minecraft 1.17.1+! Lets you create RPG-Like titles in certain areas
 
 [release]:https://github.com/maxheyn/city-districts/releases/latest "Latest Release (external link)"
 [issues]:https://github.com/maxheyn/city-districts/issues "Issues (external link)"
-[planetminecraft]: https://www.planetminecraft.com/data-pack/city-districts-rpg-titles/ "Planet Minecraft Webpage (external link)"
+[planetminecraft]: https://www.planetminecraft.com/data-pack/city-districts-rpg-like-titles/ "Planet Minecraft Webpage (external link)"

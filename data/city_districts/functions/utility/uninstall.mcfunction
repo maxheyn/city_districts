@@ -8,7 +8,6 @@
 
 # Removes all scoreboard objectives
 scoreboard objectives remove cd_help
-scoreboard objectives remove cd_initialized
 tag @e[tag=cd_seenTitle] remove cd_seenTitle
 
 # Remove all armor stand markers

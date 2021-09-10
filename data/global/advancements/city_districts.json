@@ -4,11 +4,35 @@
 		"description": [
 			"",
 			{
-				"text": "Create colorful RPG-Like titles in areas that show up when you walk over them.\n\n",
+				"text": "Create colorful ",
 				"color": "green"
 			},
 			{
-				"text": "Simply toss a renamed banner with the respective color onto an armor stand to create your title!",
+				"text": "RPG-Like titles ",
+				"color": "gold"
+			},
+			{
+				"text": "in areas that show up when you walk over them.\n\n",
+				"color": "green"
+			},
+			{
+				"text": "Simply toss a ",
+				"color": "green"
+			},
+			{
+				"text": "renamed banner ",
+				"color": "aqua"
+			},
+			{
+				"text": "with the respective color onto an armor stand to create your title!",
+				"color": "green"
+			},
+			{
+				"text": " armor stand ",
+				"color": "gold"
+			},
+			{
+				"text": "to create your title!",
 				"color": "green"
 			}
 		],

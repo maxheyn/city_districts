@@ -42,6 +42,8 @@ Datapack for Minecraft 1.17.1+! Lets you create RPG-Like titles in certain areas
 <img src=".github\resources\discontinue.gif">
 <p>Set the block (marked with particles) on fire to delete the district.</p>
 
+<p>Uninstall the datapack with <code>/function miniblock_traders:utility/uninstall</code>.</p>
+
 [release]:https://github.com/maxheyn/city_districts/releases/latest "Latest Release (external link)"
 [issues]:https://github.com/maxheyn/city_districts/issues "Issues (external link)"
 [planetminecraft]: https://www.planetminecraft.com/data-pack/city-districts-rpg-like-titles/ "Planet Minecraft Webpage (external link)"

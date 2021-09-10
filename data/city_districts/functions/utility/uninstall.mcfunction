@@ -6,12 +6,26 @@
 #                                                                 #
 # --------------------------------------------------------------- #
 
-# Removes all scoreboard objectives and disables the datapack
-scoreboard objectives remove cd_initialized
+# Removes all scoreboard objectives
 scoreboard objectives remove cd_help
-scoreboard objectives remove cd_shrineCount 
+scoreboard objectives remove cd_initialized
+tag @e[tag=cd_seenTitle] remove cd_seenTitle
 
-tellraw @p ["",{"text":"[Datapack] City Districts Datapack has been disabled.","color":"red"}]
-tellraw @p ["",{"text":"[Click here to re-enable City Districts.]","color":"aqua","clickEvent":{"action":"run_command","value":"/datapack enable \"file/city_districts\""}}]
+# Remove all armor stand markers
+kill @e[tag=cd_dist_dark_aqua]
+kill @e[tag=cd_dist_aqua]
+kill @e[tag=cd_dist_dark_green]
+kill @e[tag=cd_dist_dark_purple]
+kill @e[tag=cd_dist_dark_red]
+kill @e[tag=cd_dist_gold]
+kill @e[tag=cd_dist_gray]
+kill @e[tag=cd_dist_green]
+kill @e[tag=cd_dist_light_purple]
+kill @e[tag=cd_dist_white]
+kill @e[tag=cd_dist_yellow]
 
-datapack disable "file/city_districts"
+# Goodbye message :(
+tellraw @p [{"text":"[Datapack] ","color":"gold"},{"text":"City Districts has been uninstalled!","color":"red"}]
+
+# Disable datapack
+datapack disable "file/city_districts.zip"

@@ -1,0 +1,28 @@
+{
+	"display": {
+		"title": "City Districts              ",
+		"description": [
+			"",
+			{
+				"text": "Create colorful RPG-Like titles in areas that show up when you walk over them.\n\n",
+				"color": "green"
+			},
+			{
+				"text": "Simply toss a renamed banner with the respective color onto an armor stand to create your title!",
+				"color": "green"
+			}
+		],
+		"icon": {
+			"item": "minecraft:cyan_banner",
+			"nbt": "{BlockEntityTag:{Patterns:[{Pattern:mc,Color:13},{Pattern:bri,Color:8},{Pattern:bt,Color:15},{Pattern:bs,Color:5},{Pattern:tts,Color:3},{Pattern:bts,Color:13}]}}"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "global:maxheyn",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
